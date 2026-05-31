@@ -74,7 +74,7 @@ conn.commit()
 
 # ---------------- ADMIN ----------------
 ADMIN_USERNAME = "admin"
-ADMIN_PASSWORD = "1234"
+ADMIN_PASSWORD = "0321"
 
 if "admin_logged_in" not in st.session_state:
     st.session_state.admin_logged_in = False
